@@ -1,0 +1,12 @@
+Projects-
+
+Housing problem
+aprroach-
+Multivariate linear regresion with numpy
+
+Iris problem
+appraoch-
+KNN
+Logistic classifier
+2 layer Neural Net with sigmoid activation
+
